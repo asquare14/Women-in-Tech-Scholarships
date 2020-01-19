@@ -7,6 +7,8 @@ A list of scholarships for Women in Tech.
 
 [Anita Borg Grace Hopper Celebration Scholarship](https://ghc.anitab.org/)
 
+[Goldman Sachs Global Scholarship and Mentorship Program](https://www.iie.org/WeTech-GoldmanSachs)
+
 [Nutanix Scholarship](https://www.nutanix.com/scholarships)
 
 [One Million Women in Tech](https://wiki.rethinkfoundation.in/One_Million_Women_To_Tech_-_Women%27s_Summer_Of_Code)
@@ -24,3 +26,5 @@ A list of scholarships for Women in Tech.
 [Western Digital](https://www.wdc.com/about-wd/philanthropy/scholarship.html)
 
 [Women Techmakers by Google](https://www.womentechmakers.com/scholars)
+
+[Women Emerging in Finance Program](https://www.goldmansachs.com/careers/students/programs/india/women-emerging-in-finance-program.html)
